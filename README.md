@@ -16,7 +16,7 @@ Click on the Generate Password button to generate a new password. Enter a number
 https://etfruitninja.github.io/password-generator/
 
 ## Screenshot
-![alt=password-generator-website](Develop/screenshot.PNG);
+![alt=password-generator-website](screenshot.PNG);
 
 ## Credits
 
